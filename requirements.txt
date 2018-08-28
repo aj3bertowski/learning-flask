@@ -1,4 +1,0 @@
-flask
-pyodbc
-sqlalchemy
-flask-sqlalchemy
